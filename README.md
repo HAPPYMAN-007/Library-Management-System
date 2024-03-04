@@ -49,13 +49,13 @@ Python 3.6 or newer installed on your machine.
 
 
 # Advanced Features
-Role-Based Access Control: Differentiated access for librarians and administrators, ensuring secure and efficient management.
+* Role-Based Access Control: Differentiated access for librarians and administrators, ensuring secure and efficient management.
 
 
 # Troubleshooting
-Missing JSON Files: The system automatically creates necessary files on first run.
-Permission Errors: Ensure the application has read/write access to its directory.
+* Missing JSON Files: The system automatically creates necessary files on first run.
+* Permission Errors: Ensure the application has read/write access to its directory.
 
 
 # Conclusion
-This Library Management System simplifies library management tasks, providing an intuitive interface for librarians to manage books and patrons effectively. For further assistance, refer to the source code documentation or contact the system administrator.
+* This Library Management System simplifies library management tasks, providing an intuitive interface for librarians to manage books and patrons effectively. For further assistance, refer to the source code documentation or contact the system administrator.
