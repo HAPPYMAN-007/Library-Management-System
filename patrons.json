@@ -1,0 +1,8 @@
+{
+    "admin-001": {
+        "name": "Admin User",
+        "patron_id": "admin-001",
+        "contact_info": "admin@example.com",
+        "role": "administrator"
+    }
+}
