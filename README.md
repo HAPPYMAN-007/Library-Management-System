@@ -14,20 +14,20 @@ This Library Management System project stands out for its modular design, ease o
 
 
 
-Library Management System (LMS) User Manual
-Overview
+# Library Management System (LMS) User Manual
+# Overview
 This Library Management System is a Python-based application designed to help librarians manage books, patrons, and transactions efficiently. With features like book and patron management, transaction handling, and data persistence using JSON files, this system streamlines library operations.
 
-System Requirements
+# System Requirements
 Python 3.6 or newer installed on your machine.
 
 
-Setup Instructions
+# Setup Instructions
 Clone or Download the Project: Obtain the project files from the provided source.
 Navigate to the Project Directory: Use the command line to navigate to the folder containing the project files.
 
 
-File Structure
+# File Structure
 book.py: Defines the Book class.
 patron.py: Defines the Patron class.
 transaction.py: Defines the Transaction class.
@@ -35,27 +35,27 @@ library.py: Contains the Library class that orchestrates the system's functional
 main.py: The entry point for interacting with the system through a command-line interface.
 
 
-Getting Started
+# Getting Started
 Starting the Application: Run python main.py in the command line while in the project directory.
 Logging In: When prompted, enter the user ID for the administrator or librarian. Use admin-001 for administrator access if no other accounts are set up.
 Navigating the Menu: Use the numeric options to navigate the system's functionalities such as adding/removing books or patrons, checking out/in books, etc.
 
 
-Key Functionalities
+# Key Functionalities
 Add/Remove Books: Manage the library's book inventory.
 Add/Remove Patrons: Handle library member information.
 Check Out/In Books: Process book loans and returns.
 View Reports: Generate and view reports on library transactions.
 
 
-Advanced Features
+# Advanced Features
 Role-Based Access Control: Differentiated access for librarians and administrators, ensuring secure and efficient management.
 
 
-Troubleshooting
+# Troubleshooting
 Missing JSON Files: The system automatically creates necessary files on first run.
 Permission Errors: Ensure the application has read/write access to its directory.
 
 
-Conclusion
+# Conclusion
 This Library Management System simplifies library management tasks, providing an intuitive interface for librarians to manage books and patrons effectively. For further assistance, refer to the source code documentation or contact the system administrator.
