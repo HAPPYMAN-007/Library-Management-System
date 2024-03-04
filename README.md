@@ -23,29 +23,29 @@ Python 3.6 or newer installed on your machine.
 
 
 # Setup Instructions
-Clone or Download the Project: Obtain the project files from the provided source.
-Navigate to the Project Directory: Use the command line to navigate to the folder containing the project files.
+* Clone or Download the Project: Obtain the project files from the provided source.
+* Navigate to the Project Directory: Use the command line to navigate to the folder containing the project files.
 
 
 # File Structure
-book.py: Defines the Book class.
-patron.py: Defines the Patron class.
-transaction.py: Defines the Transaction class.
-library.py: Contains the Library class that orchestrates the system's functionality.
-main.py: The entry point for interacting with the system through a command-line interface.
+* book.py: Defines the Book class.
+* patron.py: Defines the Patron class.
+* transaction.py: Defines the Transaction class.
+* library.py: Contains the Library class that orchestrates the system's functionality.
+* main.py: The entry point for interacting with the system through a command-line interface.
 
 
 # Getting Started
-Starting the Application: Run python main.py in the command line while in the project directory.
-Logging In: When prompted, enter the user ID for the administrator or librarian. Use admin-001 for administrator access if no other accounts are set up.
-Navigating the Menu: Use the numeric options to navigate the system's functionalities such as adding/removing books or patrons, checking out/in books, etc.
+* Starting the Application: Run python main.py in the command line while in the project directory.
+* Logging In: When prompted, enter the user ID for the administrator or librarian. Use admin-001 for administrator access if no other accounts are set up.
+* Navigating the Menu: Use the numeric options to navigate the system's functionalities such as adding/removing books or patrons, checking out/in books, etc.
 
 
 # Key Functionalities
-Add/Remove Books: Manage the library's book inventory.
-Add/Remove Patrons: Handle library member information.
-Check Out/In Books: Process book loans and returns.
-View Reports: Generate and view reports on library transactions.
+* Add/Remove Books: Manage the library's book inventory.
+* Add/Remove Patrons: Handle library member information.
+* Check Out/In Books: Process book loans and returns.
+* View Reports: Generate and view reports on library transactions.
 
 
 # Advanced Features
